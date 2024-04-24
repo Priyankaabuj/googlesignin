@@ -9,7 +9,7 @@ const passport = require("passport");
 const OAuth2Strategy = require("passport-google-oauth2").Strategy;
 const userdb = require("./model/userSchema")
 
-const clientid = "384261144468-kak7jrobfvkbi1kt3hba0adfkuhb39lf.apps.googleusercontent.com"
+const clientid = "975728601120-96inhqdvgemvoucdg05k6r60bfqntrh3.apps.googleusercontent.com"
 const clientsecret = process.env.Secret
 
 
